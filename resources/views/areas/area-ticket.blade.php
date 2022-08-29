@@ -193,6 +193,7 @@
                     console.log('Sin imagen');
                     document.getElementById('slide').style.display = 'none';
 
+                    
                 } else {
                     $('#img1').attr("src", params['imagen_1']);
                     $('#img2').attr("src", params['imagen_2']);
