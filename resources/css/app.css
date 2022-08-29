@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+#thumb{
+position:absolute;
+border:1px solid #b7e5ff;
+background:#ccc;
+padding:5px;
+display:none;
+color:#333;
+}

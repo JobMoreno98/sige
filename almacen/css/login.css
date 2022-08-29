@@ -1,0 +1,25 @@
+body{
+    margin: 0 auto;
+   background-image: url("../images/fondo.jpg");
+   background-repeat: no-repeat;
+   background-position: bottom;
+   background-size: 100%;
+   
+}
+.menuLogin{
+   
+   min-height: 50px;
+   max-width: 500px;
+   text-align: center;
+   background:  #762126;
+   border-radius: 6px;
+   margin: 0 auto; 
+   margin-top: 100px;
+   padding-top: 5px;
+      
+}
+
+#inicioSesion{
+    color: white;
+}
+
